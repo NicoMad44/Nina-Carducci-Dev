@@ -246,6 +246,19 @@ input[type="submit"] {
 	padding: .5em 1em
 }
 
+#personalInfo{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	gap:30%;
+}
+
+footer h2{
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 60px;
+}
+
 @media all and (max-width: 1180px) {
 	.picture {
 		flex : 2;

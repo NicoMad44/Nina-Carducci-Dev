@@ -194,6 +194,14 @@ body {
 	z-index: 1;
 }
 
+.prices {
+	margin-top: 0;
+	margin-bottom: 0.5rem;
+	font-weight: 500;
+	line-height: 1.2;
+	font-size: calc(1.275rem + 0.3vw);
+}
+
 #contact {
 	margin: auto;
 	background-color: #D8D3A8 ;
